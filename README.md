@@ -1,8 +1,6 @@
-
 # floppymusic
 
-This repo contains melodies, written in C++, to be played using Raspberry Pi and floppy disk drive 
-This was made using [XtraPerianer's guide](https://xtraperianer.wordpress.com/2014/08/06/making-floppy-music-with-a-raspberry-pi/?lang=en)
+This repo contains melodies, written in C++, to be played using Raspberry Pi and floppy disk drive. This was made using [XtraPerianer's guide](https://xtraperianer.wordpress.com/2014/08/06/making-floppy-music-with-a-raspberry-pi/?lang=en). I also edited that instruction and added it to repository [here](instructions/HOWTO.md)
 
 ## To assemble this you need:
 
@@ -20,7 +18,7 @@ First check if you have c++ compiler on you Raspberry, and install it if you don
 
 ```shell
 sudo apt-get install g++
-``` 
+```
 
 Then go to directory with your code (You can get an example [here](https://www.raspberrypi.org/forums/viewtopic.php?f=41&t=69947)):
 
@@ -36,10 +34,10 @@ You should now be able to run the Programm by simply typing:
 
 ## Guides on the Internet
 
-* http://projects-raspberry.com/floppy-drive-music-w-raspberry-pi/
-* https://xtraperianer.wordpress.com/2014/08/06/making-floppy-music-with-a-raspberry-pi/?lang=en
+- http://projects-raspberry.com/floppy-drive-music-w-raspberry-pi/
+- https://xtraperianer.wordpress.com/2014/08/06/making-floppy-music-with-a-raspberry-pi/?lang=en
+- https://pitopies.wordpress.com/2015/02/09/floppy-music-step-by-step/
 
 And original code source:
 
-* https://www.raspberrypi.org/forums/viewtopic.php?f=41&t=69947
-
+- https://www.raspberrypi.org/forums/viewtopic.php?f=41&t=69947
